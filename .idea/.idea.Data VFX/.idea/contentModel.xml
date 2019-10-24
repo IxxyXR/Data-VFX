@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\andyb\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andyb\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Data VFX.-1052888878.00" t="ExcludeRecursive" />
+    <e p="C:\Users\andyb\Documents\Unity Projects\Data VFX" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Bobbin" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="BobbinCore.cs" t="Include" />
+              <e p="BobbinSettings.cs" t="Include" />
+              <e p="BobbinSettingsEditor.cs" t="Include" />
+            </e>
+            <e p="Thirdparty" t="Include">
+              <e p="EditorCoroutines" t="Include">
+                <e p="Readme - v1.1.0.txt" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="EditorCoroutineExtensions.cs" t="Include" />
+                  <e p="EditorCoroutines.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="TreeModel" t="Include">
+              <e p="BobbinTreeView.cs" t="Include" />
+              <e p="TreeElement.cs" t="Include" />
+              <e p="TreeElementUtility.cs" t="Include" />
+              <e p="TreeModel.cs" t="Include" />
+              <e p="TreeViewWithTreeModel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="CSVParsing.cs" t="Include" />
+        <e p="Example Files" t="Include">
+          <e p="Google Docs Example.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Data VFX.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
